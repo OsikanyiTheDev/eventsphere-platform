@@ -6,10 +6,10 @@ The Project Book is the source of truth for why EventSphere exists, what it must
 
 | Part | Subject | Planned document |
 |---|---|---|
-| I | Business | [Project Charter](01-project-charter.md), business requirements, scope, stakeholders, assumptions, risks |
+| I | Business | [Project Charter](01-project-charter.md), [business requirements](02-business-requirements-document.md), scope, stakeholders, assumptions, risks |
 | II | Requirements | [Software Requirements Specification (SRS)](03-software-requirements-specification.md), personas, [user stories and acceptance criteria](04-user-stories-and-acceptance-criteria.md) |
 | III | Architecture | Context, high-level, low-level, network, data-flow, component, and deployment designs |
-| IV | Infrastructure | Terraform, state, IAM, environments, naming, tagging, and security model |
+| IV | Infrastructure | [Technology stack selection](05-technology-stack-selection.md), Terraform, state, IAM, environments, naming, tagging, and security model |
 | V | Application | Frontend, backend, database, API, authentication, authorization, and storage design |
 | VI | DevOps | Git workflow, quality gates, Jenkins, Docker, Kubernetes, and releases |
 | VII | Operations | Monitoring, logging, alerting, backups, disaster recovery, scaling, and hardening |
